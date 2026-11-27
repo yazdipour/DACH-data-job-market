@@ -152,3 +152,4 @@ MIT. The underlying job data belongs to Adzuna and its source boards.
 ---
 
 <p align="center">Built by <b>Christoph Ruckensteiner</b> · <a href="https://www.linkedin.com/in/cruckensteiner112">LinkedIn</a> · <a href="https://github.com/Chrisinho8">GitHub</a></p>
+<p align="center">Software engineering edition by <b>Shahriar Yazdipour</b> · <a href="https://yazdipour.com/">yazdipour.com</a> · <a href="https://github.com/yazdipour">GitHub</a></p>
